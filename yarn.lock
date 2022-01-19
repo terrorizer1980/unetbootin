@@ -57,20 +57,22 @@ getsecret@^1.0.2:
   dependencies:
     yamlfile "^1.0.1"
 
-ghreleases@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/ghreleases/-/ghreleases-1.0.5.tgz#a20f8194074311e19d84ccba7a6e08c4b434fd80"
+ghreleases@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/ghreleases/-/ghreleases-1.0.7.tgz#78214443d91ac3c651a4a7687a63da8651efa379"
+  integrity sha512-1lFGyLLF38Q6cFCDyebN5vzQ2P9DEaAgxPIDLmQwQDVDmUe2Wgv+6dhAIoHeA+My4HLpaJ+dKF73xtuykN2cbQ==
   dependencies:
     after "~0.8.1"
-    ghrepos "~2.0.0"
+    ghrepos "~2.1.0"
     ghutils "~3.2.0"
     simple-mime "~0.1.0"
     url-template "~2.0.6"
     xtend "~4.0.0"
 
-ghrepos@~2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/ghrepos/-/ghrepos-2.0.0.tgz#d66eae9d98a3b5398e460d6db7e10a742692e81b"
+ghrepos@~2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/ghrepos/-/ghrepos-2.1.0.tgz#abaf558b690b722c70c7ad45076f6f9be8e495e1"
+  integrity sha512-6GM0ohSDTAv7xD6GsKfxJiV/CajoofRyUwu0E8l29d1o6lFAUxmmyMP/FH33afA20ZrXzxxcTtN6TsYvudMoAg==
   dependencies:
     ghutils "~3.2.0"
 
